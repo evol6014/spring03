@@ -8,5 +8,10 @@ target
 .cache-main
 .cache-tests
 
+.springBeans
+
+
+
+
 
 

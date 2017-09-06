@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- bean 설정 파일 -->
+
+<bean class="com.example.spring.Dept">
+	<property name="deptno" value="20"/>
+	<property name="dname" value="총무부"/>
+	<property name="loc" value="부산"/>
+</bean>
+
+</beans>
