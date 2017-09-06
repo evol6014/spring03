@@ -1,4 +1,4 @@
-package spring03;
+package com.example;
 
 import static org.junit.Assert.*;
 
