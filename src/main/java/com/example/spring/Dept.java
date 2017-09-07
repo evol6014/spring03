@@ -16,4 +16,11 @@ public class Dept {
 	String dname;
 	String loc;
 
+	public void print() {
+		System.out.println("###" + toString());
+	}
+	
+	public void print2() {
+		System.out.println("###" + toString());
+	}
 }
